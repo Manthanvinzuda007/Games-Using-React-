@@ -1,3 +1,4 @@
+// By Manthan Vinzuda
 import React, { useEffect, useRef, useState } from 'react';
 
 // --- Constants ---
