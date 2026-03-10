@@ -1,3 +1,4 @@
+// By Manthan Vinzuda
 import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import { RefreshCw, Trophy, AlertTriangle, User, Settings, Flag, Cpu, Activity } from 'lucide-react';
 
