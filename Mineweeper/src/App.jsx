@@ -1,3 +1,4 @@
+// By Manthan Vinzuda
 import { useState, useEffect, useRef, useCallback } from "react";
 
 /* ================= Educational Facts ================= */
